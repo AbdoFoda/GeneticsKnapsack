@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 
 public class Main {
-    static final int popSize = 500;
+    static final int popSize = 555;
     static final Double pc = 0.45;
     static final Double pm = 0.001;
     static final int numberOfGenerations = 5555;
