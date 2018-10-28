@@ -9,10 +9,10 @@ import java.util.Scanner;
 
 
 public class Main {
-    static final int popSize = 555;
-    static final Double pc = 0.45;
-    static final Double pm = 0.001;
-    static final int numberOfGenerations = 5555;
+    static final int popSize = 2000;
+    static final Double pc = 0.4;
+    static final Double pm = 0.01;
+    static final int numberOfGenerations = 5000;
 
     static ArrayList<Chromosome> population = new ArrayList<>();
     static Random R = new Random();
